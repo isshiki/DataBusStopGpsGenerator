@@ -1,0 +1,2 @@
+# DataBusStopGpsGenerator
+バス停のGPSデータをJSONデータ（厳密にはJavaScriptオブジェクトリテラル）形式にして出力するツール。
